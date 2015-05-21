@@ -1,2 +1,2 @@
-# AlgorithmsEx
-Completing excersises from algorithms 4d edition
+# Algorithms Exercises 
+Completing exercises from Algorithms 4d edition
