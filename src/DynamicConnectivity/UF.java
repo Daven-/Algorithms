@@ -19,6 +19,10 @@ public class UF {
     // add connection between p and q
     public void union(int p, int q){
         count++; // should count components not individual connections - move asap
+        
+        // decrease number of components - 
+        // p and q should not be in a component already (else count++) or different components for union to work
+        count--; 
     }
     
     // component identifier  for p
